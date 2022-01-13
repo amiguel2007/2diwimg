@@ -1,0 +1,10 @@
+#contenedor {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+img {
+    margin: 10px;
+    width: 48%;
+}
